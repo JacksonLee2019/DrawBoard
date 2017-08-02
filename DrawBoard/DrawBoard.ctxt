@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Simple\ initiating\ main()\ method\ to\ start\ program.\r\n\r\n\ @param\ args\ Not\ used.\r\n
+comment1.params=
+comment1.target=void\ makeBoard()
+comment1.text=\r\n\ Creates\ the\ graphical\ window.\r\n
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.text=\r\n\ Method\ called\ when\ a\ keyboard\ key\ is\ pressed.\r\n\r\n\ @param\ e\ The\ event\ that\ is\ caused\ by\ pressing\ a\ key.\r\n\ \ \ \ \ \ \ \ \ \ \ \ We\ can\ find\ out\ which\ key\ was\ pressed\ based\ upon\ this\ code.\r\n
+comment3.params=
+comment3.target=void\ resetBoard()
+comment4.params=
+comment4.target=void\ flipVertical()
+comment5.params=
+comment5.target=void\ flipHorizontal()
+comment6.params=
+comment6.target=void\ rotate()
+comment7.params=
+comment7.target=void\ findSpecialPixels()
+comment8.params=e
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment8.text=\r\n\ (non-Javadoc)\r\n\r\n\ @see\ java.awt.event.KeyListener\#keyTyped(java.awt.event.KeyEvent)\r\n
+comment9.params=e
+comment9.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment9.text=\r\n\ (non-Javadoc)\r\n\r\n\ @see\ java.awt.event.KeyListener\#keyReleased(java.awt.event.KeyEvent)\r\n
+numComments=10
